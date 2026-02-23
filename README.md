@@ -1,4 +1,4 @@
-Click on the green <>code
+Click on the green <>Code
 
 Click download ZIP
 
