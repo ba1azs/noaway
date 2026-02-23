@@ -1,5 +1,11 @@
 Press Win + R
-Type:"shell:startup"
+
+Type:
+
+shell:startup
+
 Press Enter
-Copy teh files into that folder
-Next login → it runs automatically.
+
+Copy your .bat file (or a shortcut to it) into the opened folder.
+
+👉 The batch file will run automatically the next time you log in.
